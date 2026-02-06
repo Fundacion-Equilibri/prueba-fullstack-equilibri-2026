@@ -1,15 +1,15 @@
-# Evaluación para nuevo programador en Fundación Equilibri
-¡Bienvenido a Equilibri! Muchas gracias por tomarte el tiempo para esta tarea. 🙏
+# Evaluación para Fundación Equilibri
+¡Bienvenido a Equilibri! Muchas gracias por dedicarnos tu tiempo para esta tarea. 🙏
 
 ### Objetivo
 En esta tarea, crearás una aplicación que consta de una API y una interfaz que consume esa API y representa un gráfico.
 
-El objetivo no es crear la aplicación más completa, sino comprender cómo resuelves los problemas y cómo codificas. Al entregar la aplicación, analizaremos tus soluciones, decisiones y proceso de pensamiento
+El objetivo no es crear la aplicación más completa, sino comprender cómo resuelves los problemas y cómo codificas. Al entregar la aplicación, analizaremos tus soluciones, decisiones y proceso de pensamiento.
 
 Te sugerimos no dedicar más de 2 horas, pero puedes dedicarle más tiempo. No te preocupes si te toma más tiempo. También puedes reducir el alcance de algunas partes de la tarea; eso depende de ti.
 
 ### Empezar
-Este repositorio te ayudará a poner en marcha tu aplicación. Se ha configurado un backend, pero para el frontend puedes usar lo que quieras. Para Vue y React, sugerimos Vite. También puedes usar Next/Nuxt para todo el proyecto y copiar el código proporcionado. ¡Cualquier stack que funcione!
+Este repositorio te ayudará a poner en marcha tu aplicación. Se ha configurado un backend, pero para el frontend puedes usar lo que quieras. Para Vue y React, sugerimos Vite, pero puedes usar otro. ¡Cualquier stack que funcione!
 
 ### Instalar
 Clona este repositorio y luego
@@ -27,7 +27,8 @@ npm start
 ```
 
 ### Ejecutar pruebas
-Para ejecutar una prueba, el backend debe estar en ejecución (el código y las pruebas se recargan automáticamente al cambiar el código).```
+Para ejecutar una prueba, el backend debe estar en ejecución (el código y las pruebas se recargan automáticamente al cambiar el código).
+```bash
 npm test
 ```
 
