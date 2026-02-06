@@ -2,7 +2,7 @@
 ¡Bienvenido a Equilibri! Muchas gracias por dedicarnos tu tiempo para esta tarea. 🙏
 
 ### Objetivo
-En esta tarea, crearás una aplicación que consta de una API y una interfaz que consume esa API y representa un gráfico.
+En esta tarea, crearás una aplicación que consta de una API y una interfaz que llama a esa API y representa un gráfico.
 
 El objetivo no es crear la aplicación más completa, sino comprender cómo resuelves los problemas y cómo codificas. Al entregar la aplicación, analizaremos tus soluciones, decisiones y proceso de pensamiento.
 
