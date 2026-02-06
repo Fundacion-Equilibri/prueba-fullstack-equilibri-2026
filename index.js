@@ -1,9 +1,9 @@
+import 'dotenv/config'
 import express from 'express'
 import bodyParser from 'body-parser'
-import footprintApi from './footprintApi'
+import footprintApi from './footprintApi.js'
 
 const app = express()
-require('dotenv').config();
 app.use(bodyParser.json())
 
 app.get('/', async (req, res) => {    

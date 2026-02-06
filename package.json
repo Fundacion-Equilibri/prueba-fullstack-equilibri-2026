@@ -1,12 +1,12 @@
 {
-  "name": "backend-assessment",
+  "name": "backend-equilibri",
   "version": "1.0.0",
-  "description": "Altruistiq backend assessment",
+  "type": "module",
+  "description": "Equilibri backend prueba 2026",
   "main": "index.js",
   "scripts": {
-    "init": "node ./scripts/generateData.js",
-    "start": "nodemon index --exec \"node -r @babel/register\"",
-    "test": "mocha --watch --watch-files **/*.js,tests/*.js --exit --require @babel/polyfill --require @babel/register tests/"
+    "start": "nodemon index.js",
+    "test": "mocha --watch --extension js"
   },
   "author": "Satya van Heummen",
   "license": "MIT",
@@ -18,13 +18,6 @@
     "express": "^4.19.2"
   },
   "devDependencies": {
-    "@babel/cli": "^7.24.7",
-    "@babel/core": "^7.24.7",
-    "@babel/node": "^7.23.9",
-    "@babel/plugin-transform-runtime": "^7.24.7",
-    "@babel/polyfill": "^7.12.1",
-    "@babel/preset-env": "^7.24.7",
-    "@babel/register": "^7.23.7",
     "@faker-js/faker": "*",
     "mocha": "^10.4.0",
     "nodemon": "^3.1.3"
