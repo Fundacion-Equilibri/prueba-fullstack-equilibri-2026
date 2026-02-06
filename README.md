@@ -12,6 +12,8 @@ Te sugerimos no dedicar más de 2 horas, pero puedes dedicarle más tiempo. No t
 Este repositorio te ayudará a poner en marcha tu aplicación. Se ha configurado un backend, pero para el frontend puedes usar lo que quieras. Para Vue y React, sugerimos Vite, pero puedes usar otro. ¡Cualquier stack que funcione!
 
 ### Instalar
+
+Asegúrate de tener instalado Node 18 o superior.
 Clona este repositorio y luego:
 ```bash
 npm i
