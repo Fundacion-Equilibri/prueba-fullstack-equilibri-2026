@@ -12,7 +12,7 @@ Te sugerimos no dedicar más de 2 horas, pero puedes dedicarle más tiempo. No t
 Este repositorio te ayudará a poner en marcha tu aplicación. Se ha configurado un backend, pero para el frontend puedes usar lo que quieras. Para Vue y React, sugerimos Vite, pero puedes usar otro. ¡Cualquier stack que funcione!
 
 ### Instalar
-Clona este repositorio y luego
+Clona este repositorio y luego:
 ```bash
 npm i
 ```
@@ -33,10 +33,10 @@ npm test
 ```
 
 # Tareas
-Lea todas las tareas con detenimiento para comprender el alcance completo de esta evaluación
+Lea todas las tareas con detenimiento para comprender el alcance completo de esta evaluación.
 
-## Tarea 1: Crear una API en el backend que devuelva la emisión total por país y año
-Para obtener los datos para esta API, utilice la [API](https://data.footprintnetwork.org/#/api) ya configurada. Úsela de la siguiente manera:
+## Tarea 1: Crear una API que devuelva la emisión total por país y año
+Para obtener los datos para esta nueva API, utilice la [API](https://data.footprintnetwork.org/#/api) ya configurada. Úsela de la siguiente manera:
 
 ```js
 import footprintApi from './footprintApi'
@@ -61,7 +61,7 @@ Escriba pruebas para asegurarse de que su API funcione como se espera.
 Cree un gráfico según este ejemplo, pero ajústelo según el diseño de Figma. El gráfico itera por los años disponibles y muestra, para cada año, una lista de países ordenados por sus emisiones. Tenga en cuenta que algunos países no tienen datos para un año específico.
 ![https://miro.medium.com/max/1600/1*37uCN6y1WyLukxwCadhWRw.gif](https://miro.medium.com/max/1600/1*37uCN6y1WyLukxwCadhWRw.gif)
 
-Obtenga [este archivo Figma](https://www.figma.com/file/WJ1BvQzvFchIFxo67iIywi/Altruistiq-frontend-hiring-task) para comenzar.
+Obtén [este archivo Figma](https://www.figma.com/file/WJ1BvQzvFchIFxo67iIywi/Altruistiq-frontend-hiring-task) para comenzar.
 
 La fuente utilizada es
 ```
@@ -69,11 +69,10 @@ La fuente utilizada es
 ```
 
 Requisitos:
-- use Vue o React y Sass
-- use componentes, DOM nativo o D3 para crear el gráfico
+- use componentes, DOM nativo o D3 para crear el gráfico.
 - No uses bibliotecas de gráficos, CSS, componentes, animaciones ni caché. La idea es que demuestres tus habilidades codificando manualmente.
-- El gráfico debe ser responsive, pruébelo cambiando el tamaño de la ventana
-- Calcular y mostrar la huella total mundial en la página (tal y como aparece en el figma)
+- El gráfico debe ser responsive, pruébelo cambiando el tamaño de la ventana.
+- Calcular y mostrar las emisiones totales mundiales por año en la página (tal y como aparece en el figma).
 
 # Entrega tu resultado
-Proporciona un repositorio Git con tu código y envíanos la URL
+Proporciona un repositorio Git con tu código y envíanos la URL.
