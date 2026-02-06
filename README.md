@@ -1,1 +1,0 @@
-# prueba-fullstack-equilibri-2026
