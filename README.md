@@ -77,4 +77,4 @@ Requisitos:
 - Calcular y mostrar las emisiones totales mundiales por año en la página (tal y como aparece en el figma).
 
 # Entrega tu resultado
-Proporciona un repositorio Git con tu código y envíanos la URL.
+Proporciona un repositorio Git con tu código y envíanos la URL. Asegúrate de realizar los commits antes de la hora prevista.
