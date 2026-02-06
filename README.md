@@ -71,7 +71,7 @@ La fuente utilizada es
 ```
 
 Requisitos:
-- use componentes, DOM nativo o D3 para crear el gráfico.
+- Use componentes, DOM nativo o D3 para crear el gráfico.
 - No uses bibliotecas de gráficos, CSS, componentes, animaciones ni caché. La idea es que demuestres tus habilidades codificando manualmente.
 - El gráfico debe ser responsive, pruébelo cambiando el tamaño de la ventana.
 - Calcular y mostrar las emisiones totales mundiales por año en la página (tal y como aparece en el figma).
