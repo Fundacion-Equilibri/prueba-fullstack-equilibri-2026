@@ -6,10 +6,10 @@ En esta tarea, crearás una aplicación que consta de una API y una interfaz que
 
 El objetivo no es crear la aplicación más completa, sino comprender cómo resuelves los problemas y cómo codificas. Al entregar la aplicación, analizaremos tus soluciones, decisiones y proceso de pensamiento.
 
-Te sugerimos no dedicar más de 2 horas, pero puedes dedicarle más tiempo. No te preocupes si te toma más tiempo. También puedes reducir el alcance de algunas partes de la tarea; eso depende de ti.
+Te sugerimos no dedicar más de 2 horas, pero puedes dedicarle hasta un máximo de 3 horas. No te preocupes si te toma más tiempo. También puedes reducir el alcance de algunas partes de la tarea; eso depende de ti.
 
 ### Empezar
-Este repositorio te ayudará a poner en marcha tu aplicación. Se ha configurado un backend, pero para el frontend puedes usar lo que quieras. Para Vue y React, sugerimos Vite, pero puedes usar otro. ¡Cualquier stack que funcione!
+Este repositorio te ayudará a poner en marcha tu aplicación. Se ha configurado un backend, pero para el frontend puedes usar lo que quieras. Para Vue y React, sugerimos Vite, pero puedes usar otro. Cualquier stack que funcione.
 
 ### Instalar
 
@@ -72,7 +72,7 @@ La fuente utilizada es
 
 Requisitos:
 - Use componentes, DOM nativo o D3 para crear el gráfico.
-- No uses bibliotecas de gráficos, CSS, componentes, animaciones ni caché. La idea es que demuestres tus habilidades codificando manualmente.
+- No uses bibliotecas: Ni de gráficos, css, componentes, animaciones ni caché. La idea es que demuestres tus habilidades codificando manualmente.
 - El gráfico debe ser responsive, pruébelo cambiando el tamaño de la ventana.
 - Calcular y mostrar las emisiones totales mundiales por año en la página (tal y como aparece en el figma).
 
